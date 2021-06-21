@@ -37,3 +37,4 @@ terraform.rc
 *backend.properties
 aks_service_principal.json
 kube_config
+*.tfvars
